@@ -30,5 +30,4 @@ This project demonstrates a frontend implementation of a real-world e-commerce g
 
 ---
 
-## 📂 Folder Structure
 
